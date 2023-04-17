@@ -2,3 +2,4 @@
 FinEtools = "91bb5406-6c9a-523d-811d-0644c4229550"
 FinEtoolsAcoustics = "72171760-8bdd-11e9-0dbf-b3b512e82515"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

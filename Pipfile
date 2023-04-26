@@ -8,6 +8,7 @@ simulai = "*"
 numpy = "*"
 torch = "*"
 matplotlib = "*"
+h5py = "*"
 
 [dev-packages]
 ipykernel = "*"

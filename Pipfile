@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-simulai = "*"
 numpy = "*"
 torch = "*"
 matplotlib = "*"
 h5py = "*"
+simulai = "*"
 
 [dev-packages]
 ipykernel = "*"

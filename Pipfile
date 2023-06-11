@@ -9,6 +9,7 @@ torch = "*"
 matplotlib = "*"
 h5py = "*"
 simulai-toolkit = "*"
+deepxde = "*"
 
 [dev-packages]
 ipykernel = "*"

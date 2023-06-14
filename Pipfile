@@ -10,7 +10,6 @@ matplotlib = "*"
 h5py = "*"
 simulai-toolkit = "*"
 deepxde = "*"
-python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"

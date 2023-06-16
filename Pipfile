@@ -6,10 +6,10 @@ name = "pypi"
 [packages]
 numpy = "*"
 torch = "*"
-matplotlib = "*"
 h5py = "*"
 simulai-toolkit = "*"
 deepxde = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"

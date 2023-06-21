@@ -4,15 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
-torch = "*"
-h5py = "*"
 simulai-toolkit = "*"
-deepxde = "*"
+torch = "*"
+numpy = "*"
+h5py = "*"
 matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
+python_full_version = "3.9.13"

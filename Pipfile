@@ -5,11 +5,11 @@ name = "pypi"
 
 [packages]
 simulai-toolkit = "*"
-torch = "*"
 numpy = "*"
 h5py = "*"
 matplotlib = "*"
 scipy = "*"
+torch = "*"
 
 [dev-packages]
 ipykernel = "*"

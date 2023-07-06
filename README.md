@@ -12,4 +12,4 @@ $$\nabla^2_x p(\textbf{x}, t) = \frac{1}{c^2}\ddot{p}(\textbf{x}, t)$$
 
 Reformulation and discretization procedures enable the numerical simulation of the system. Example solution of an initial condition problem:
 
-https://github.com/LucasMSpereira/acousticPINNs/assets/84910559/6178cad5-d267-4808-81c1-c7f6c55c7d04
+https://github.com/LucasMSpereira/acousticPINNs/assets/84910559/3c4928be-bca7-4341-9df0-468ad1e34862
